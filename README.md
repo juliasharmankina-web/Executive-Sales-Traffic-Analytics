@@ -2,7 +2,7 @@
 Leverage SQL, Python, and Tableau to build a comprehensive analytics suite that transforms raw e-commerce data into actionable insights on sales dynamics, customer segmentation, and statistical performance drivers.
 
 ## Dashboard Preview
-![Dashboard Preview](https://drive.google.com/file/d/117VUiuuufhg5WSQ9eOhI293Vil02sILb/view?usp=share_link)
+![Dashboard Preview](https://github.com/juliasharmankina-web/Exploratory-data-analysis-for-online-store/issues/1#issue-4429504654)
 
 ## Business Task
 Perform a comprehensive diagnostic of the online store's performance by transforming raw database records into a strategic analytical report that identifies the primary drivers of revenue and user engagement.
